@@ -24,7 +24,7 @@ if($message['type']=='sticker')
                                                         'replyToken' => $replyToken,							
 							'messages' => array(
 								array(
-										'type' => 'Pictures',									
+										'type' => 'Picture',									
 										'text' => 'Terima Kasih Stikernya.'										
 									
 									)
